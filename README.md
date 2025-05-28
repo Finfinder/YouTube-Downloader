@@ -22,7 +22,7 @@ Aplikacja do pobierania filmów z YouTube w formatach audio (MP3) i video (MP4) 
 
 1. Sklonuj repozytorium:
 ```bash
-git clone https://github.com/TWOJE_NAZWA_UŻYTKOWNIKA/youtube-downloader.git
+git clone https://github.com/Finfinder/youtube-downloader.git
 cd youtube-downloader
 ```
 
@@ -48,14 +48,6 @@ python youtube_downloader.py
 3. Wybierz format (Audio MP3 lub Video MP4) i jakość
 4. Kliknij "Pobierz"
 
-## Zrzuty ekranu
-
-*Dodaj tutaj zrzuty ekranu aplikacji*
-
-## Licencja
-
-Ten projekt jest dostępny na licencji MIT.
-
 ## Autor
 
-*Twoje imię/nick*
+Rafał Trzepocki
